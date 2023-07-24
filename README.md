@@ -20,6 +20,8 @@ Starter code: https://github.com/coding-boot-camp/urban-octo-telegram
 
 Understanding CSS and HTML: https://learn.shayhowe.com/html-css/
 
+Adding and Image to a Readme: https://stackoverflow.com/questions/68777239/how-to-display-an-image-in-readme-file-on-github
+
 ## License 
 
 Refer to the License in the repo.
