@@ -12,7 +12,7 @@ N/A
 
 This website is very simple to use.  You have three href links on the top of the webpage that will take you to the three main secitons.  From there you can read all the info that the webpage has to offer! To access this site please use this link https://gstroup11.github.io/Accessibility-Refactoring-Horiseon/ .
 
-![Screenshot of Horiseon Services' nav bar.](.assets\images\Screenshot 2023-07-24 163306.png)
+![Alt text](assets\images\Screenshot 2023-07-24 163306.png)
 
 ## Credits 
 
